@@ -1,8 +1,13 @@
 print('Adding all the data proceesing code related to fraud detection')
 
-a = 5
-b= 6
+a= 5
+b =6 
 def sum(a,b):
     c = a+b
-    return a
-print('Added a new function for sum which is wrong')
+    return c
+print('Sum Function')
+
+def multiplication(a,b):
+    c = a*b
+    return c
+print('Multiplication Sum')
