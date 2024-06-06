@@ -8,3 +8,6 @@ def model2():
 
 def model3():
     print('creating ML model3')
+
+
+print("model2 is performing well so we'll use this")
